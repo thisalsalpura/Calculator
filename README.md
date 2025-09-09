@@ -1,3 +1,1 @@
-This is a Calculator Project.
-
-<img src="./screenshot_66.png" />
+This is a Java AWT Calculator Project.
